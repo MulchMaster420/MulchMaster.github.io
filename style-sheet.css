@@ -3,7 +3,6 @@ body {
     width: 70vw;
     max-width: 1000px;
     border: solid 1px black;
-    padding: 40px;
     font-family: "play", sans-serif;
 }
 
@@ -51,4 +50,5 @@ a.clickbait {
 
 div#sandy {
     background:sandybrown;
+    padding: 40px;
 }
