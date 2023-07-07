@@ -4,7 +4,6 @@ body {
     max-width: 1000px;
     border: solid 1px black;
     padding: 40px;
-    background: sandybrown;
     font-family: "play", sans-serif;
 }
 
@@ -48,4 +47,8 @@ font-family: "abril fatface", serif;
 
 a.clickbait {
     color:red;
+}
+
+div#sandy {
+    background:sandybrown;
 }
