@@ -45,3 +45,7 @@ h1,h2 {
 color:darkgreen;
 font-family: "abril fatface", serif;
 }
+
+a.clickbait {
+    color:red;
+}
