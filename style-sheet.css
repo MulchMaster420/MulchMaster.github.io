@@ -4,6 +4,7 @@ body {
     max-width: 1000px;
     border: solid 1px black;
     padding: 40px;
+    font-family: "play", sans-serif;
 }
 
 nav {
@@ -38,3 +39,4 @@ nav a:focus {
 strong {
     text-transform:uppercase;
 }
+
